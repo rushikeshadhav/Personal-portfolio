@@ -107,6 +107,11 @@ hr {
     padding: 2rem;
 }
 
+.hero-image {
+    max-width: 20px;
+    padding-left: 0.5rem;
+}
+
 .hero .hero-heading {
     text-align: center;
     color: var(--dark-grey);
